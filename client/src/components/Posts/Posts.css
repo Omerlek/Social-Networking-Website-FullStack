@@ -1,0 +1,9 @@
+.Posts {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background: #f7fbfd;
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+  

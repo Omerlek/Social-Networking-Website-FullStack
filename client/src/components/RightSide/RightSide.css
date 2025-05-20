@@ -1,0 +1,36 @@
+.RightSide {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background: #f7fbfd;
+  padding: 1rem;
+}
+
+.navIcons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.navIcons img {
+  width: 1.5rem;
+  height: 1.5rem;
+  cursor: pointer;
+}
+
+.r-button {
+  width: 80%;
+  height: 3rem;
+  align-self: center;
+  background-color: #d1ecf6;
+  border: none;
+  border-radius: 8px;
+  color: #2c6e91;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.r-button:hover {
+  background-color: #bde3f3;
+}

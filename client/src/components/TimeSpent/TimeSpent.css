@@ -1,0 +1,18 @@
+.TimeSpentCard {
+  background-color: var(--cardColor);
+  border-radius: 1rem;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.TimeSpentCard h4 {
+  margin-bottom: 0.5rem;
+}
+
+.TimeSpentCard p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--textColor);
+}

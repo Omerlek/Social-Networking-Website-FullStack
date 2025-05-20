@@ -1,0 +1,38 @@
+.joke-card {
+  background-color: var(--cardColor);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  color: var(--textColor);
+  text-align: center;
+}
+
+.joke-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.joke-content {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.joke-button {
+  padding: 0.6rem 1.2rem;
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  border-radius: 0.7rem;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.joke-button:hover {
+  background-color: #1976d2;
+}
