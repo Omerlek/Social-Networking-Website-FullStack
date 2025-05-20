@@ -28,6 +28,7 @@ It simulates the core functionalities of popular social networks, supporting sea
 
 
 **Technologies Used-**
+
 **Frontend:**
 React.js, Redux, Redux Thunk, Axios, HTML/CSS
 
