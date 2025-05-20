@@ -9,21 +9,21 @@ It simulates the core functionalities of popular social networks, supporting sea
 
 **Key Features-**
 
-- Authentication & Security: Secure user registration and login with JWT-based authentication and bcrypt password hashing.
+**- Authentication & Security:** Secure user registration and login with JWT-based authentication and bcrypt password hashing.
 
-- User Profiles: Ability to update personal information, upload profile and cover photos.
+**- User Profiles:** Ability to update personal information, upload profile and cover photos.
 
-- Posts Management: Create, edit, delete, and like posts with a personalized timeline displaying content from followed users.
+**- Posts Management:** Create, edit, delete, and like posts with a personalized timeline displaying content from followed users.
 
-- Real-time Chat: Enables live messaging between active users via Socket.IO, including message delivery and chat history.
+**- Real-time Chat:** Enables live messaging between active users via Socket.IO, including message delivery and chat history.
 
-- State Management: Utilizes Redux with Redux Thunk for efficient global state handling of user data, posts, and chat messages.
+**- State Management:** Utilizes Redux with Redux Thunk for efficient global state handling of user data, posts, and chat messages.
 
-- Data Persistence: LocalStorage is used to persist user session data and application state on the client side.
+**- Data Persistence:** LocalStorage is used to persist user session data and application state on the client side.
 
-- File Uploads: Multer middleware handles image uploads for profiles and posts on the server.
+**- File Uploads:** Multer middleware handles image uploads for profiles and posts on the server.
 
-- Modern UI/UX: Responsive and intuitive interface built with React, supporting right-to-left languages.
+**- Modern UI/UX:** Responsive and intuitive interface built with React, supporting right-to-left languages.
 
 
 
